@@ -23,3 +23,5 @@ More about me:
 </p>
 
 
+<img height="160em" width=49% alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?azashev={azashev}&theme=vue
+" />
