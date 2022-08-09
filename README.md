@@ -15,7 +15,7 @@ More about me:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=azashev)
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
-
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=azashev&show_icons=true&title_color=0969da&text_color=0969da&bg_color=ffffff&locale=en" alt="azashev" />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azashev&layout=compact)](https://github.com/azashev/github-readme-stats)
 </p>
