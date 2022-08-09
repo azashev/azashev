@@ -19,5 +19,7 @@ More about me:
   <!-- <summary>:zap: GitHub Stats</summary> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=azashev&show_icons=true&title_color=58a6ff&text_color=58a6ff&bg_color=ffffff&locale=en" alt="azashev" />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azashev)](https://github.com/azashev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azashev&layout=compact)](https://github.com/azashev/github-readme-stats)
+
+
   
