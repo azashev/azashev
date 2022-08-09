@@ -9,7 +9,6 @@ More about me:
 - 📫 How to reach me: azashev93@gmail.com
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=azashev)
-[![Years Badge](https://badges.pufler.dev/years/azashev)](https://badges.pufler.dev)
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/azashev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aleksander.zashev/) 
