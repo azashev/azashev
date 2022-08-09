@@ -21,3 +21,5 @@ More about me:
 
   <img height="160em" width=49% alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azashev&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
+
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue
