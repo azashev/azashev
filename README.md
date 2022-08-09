@@ -7,7 +7,6 @@ More about me:
 - 🤔 I’m looking for help with getting started with Machine Learning
 - 🚀 Goals for 2022: Finish the Python Advanced module and then start the Artificial Intelligence module at SoftUni
 - 📫 How to reach me: azashev93@gmail.com
-##
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=azashev)
 
