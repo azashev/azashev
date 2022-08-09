@@ -17,9 +17,7 @@ More about me:
 
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=azashev&show_icons=true&text_color=58a6ff&locale=en" alt="azashev" />
-  <img height="160em" width=49% alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azashev&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
-</p>
-
-
-  <img height="160em" width=49% alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azashev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=azashev&show_icons=true&title_color=58a6ff&text_color=58a6ff&bg_color=ffffff&hide_border=true&locale=en" alt="azashev" />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azashev)](https://github.com/azashev/github-readme-stats)
+  
