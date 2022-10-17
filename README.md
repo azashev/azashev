@@ -6,7 +6,7 @@ More about me:
 - 💬 Ask me about anything
 - 🤔 I'm looking for help getting started with Machine Learning
 - 🚀 Goals for 2022: Complete the Python Advanced module and then start the Artificial Intelligence module at SoftUni
-- 📫 How to reach me: azashev93@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/alexander-zashev-a52968235
 ##
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/azashev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aleksander.zashev/) 
