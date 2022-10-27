@@ -2,10 +2,9 @@
 
 More about me:
 - 🌱 I’m currently learning Python at SoftUni
-- 🤖 I’m interested in Machine Learning and A.I
+- 🤖 I’m interested in Back-end development and Machine learning
 - 💬 Ask me about anything
-- 🤔 I'm looking for help getting started with Machine Learning
-- 🚀 Goals for 2022: Complete the Python Advanced module and then start the Artificial Intelligence module at SoftUni
+- 🚀 Goals for 2022: Complete the Python Advanced module at SoftUni
 - 📫 Linkedin: https://www.linkedin.com/in/alexander-zashev-a52968235
 ##
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/azashev/)
