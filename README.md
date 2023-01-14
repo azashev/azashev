@@ -16,3 +16,5 @@ More about me:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azashev&layout=compact)](https://github.com/azashev/github-readme-stats)
 </p>
+
+![Alexander Zashev's GitHub stats](https://github-readme-stats.vercel.app/api?username=azashev&show_icons=true&theme=radical)
