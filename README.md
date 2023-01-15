@@ -11,4 +11,4 @@ More about me:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=azashev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azashev&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azashev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azashev&layout=compact)](https://github.com/azashev/github-readme-stats)
