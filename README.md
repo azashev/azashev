@@ -1,9 +1,26 @@
 ## Hi there! I'm Alexander 👋
 
-More about me:
-- 🌱 I’m currently learning Django at SoftUni
-- 🤖 I’m interested in Back-end development and Machine learning
-- 🚀 Goals for 2023: Complete the Algorithms course and Python Web module at SoftUni
+More about me: 
+- 🤖 Experienced in back-end and web development with a focus on Python
+- 💻 Developed Flask and Django web applications using Python, PostgreSQL, HTML, CSS, and JavaScript:
+  - https://zashev.net
+  - https://books.zashev.net
+- 🌱 I'm proficient with:
+  - Python
+  - Django
+  - SQL
+  - APIs
+  - Vanilla Javascript
+  - HTML & CSS
+  - Linux
+  - Bash
+  - Git
+  - FTP
+  - DNS, and more
+- 🚀 Career goals:
+  - Find a job as a junior web developer
+  - Expand my knowledge and skills in back-end development
+  - Contribute to open-source projects
 - 📫 Linkedin: https://www.linkedin.com/in/alexander-zashev-a52968235
 ##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-zashev-a52968235/) 
